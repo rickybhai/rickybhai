@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
-<h1 align="center">Hi 🌏, I'm Rakib Hasan</h1>
-<h3 align="center">An enthusiast computer engineer from Bangladesh</h3>
+<h1 align="center">Hello 🌏, I'm Rakib Hasan</h1>
+<h3 align="center">Passionate computer engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazz69&label=visited%20here&color=8000ff&style=plastic" alt="minhazz69" /> </p>
